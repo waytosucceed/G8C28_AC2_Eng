@@ -1,0 +1,207 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "A non-finite verb agrees with the subject and conveys mood, tense, number, and person.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "In subject-verb Agreements, it is the verb that impacts the subject.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Which sentence is correct?",
+        "options": [
+            "They goes to school.",
+            "She go to school.",
+            "He goes to school.",
+            "Neon goes to school",
+            "Both C and D"
+        ],
+        "correct": 4
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "Fill in the blanks:<br> Twenty percent of the work ……………….just site visits.",
+        "options": [
+            "Is",
+            "are"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "Is the sentence below grammatically correct? <br> Three-fourth of the interns are graduates.",
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "Which sentence is grammatically correct?<br>1. Half of her family live in New Zealand.<br>2. Half of her family lives in New Zealand.",
+        "options": [
+            "Both 1 and 2",
+            "only 1",
+            "only 2",
+            "None of the above"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "When sentences start with “there” or “here,” the subject will always be placed ………….. the verb, so care needs to be taken to identify it correctly.",
+        "options": [
+            "Before",
+            "After"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "When ‘majority’/’minority’ refer to an undetermined number greater or less than 50%, use a ……………………………… verb:",
+        "options": [
+            "Plural",
+            "Singular"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "Which sentence is grammatically correct?<br>I. An 82% majority stand against this venture.<br>II. An 82% majority stands against this venture.",
+        "options": [
+            "Both I and II",
+            "only I",
+            "only II",
+            "None of the above"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "Fill in the blanks: <br>A majority of Indians ………………….voted against the quota system in education.",
+        "options": [
+            "Have",
+            "Has"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "Which sentence has no errors?<br>I. 200 dollars is the price of this bag.<br>II. 200 dollars are the price of this bag.",
+        "options": [
+            "Only II",
+            "Only I",
+            "Both I and II",
+            "None of the above"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "Fill in the blanks:<br> 117 km ...………………………….not a small distance.",
+        "options": [
+            "Are",
+            "Were",
+            "Is",
+            "None of the above"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "Seven days in jail ……………. a long time for someone who committed no crime.",
+        "options": [
+            "Were",
+            "Are",
+            "Is",
+            "None of the above"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "Is the sentence below grammatically correct?<br> These days the rich are getting richer.",
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "Fill in the blanks:<br> The number of patients registered in the psychiatric ward  ……………………………… 73.",
+        "options": [
+            "Are",
+            "Is"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "Fill in the blanks:<br> A number of lawyers ………………………..present in the protest.",
+        "options": [
+            "Is",
+            "Are",
+            "Was",
+            "Were",
+            "Both B and D"
+        ],
+        "correct": 4
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "To which form of the verb, do we add an ‘s’ or ‘es’ to make it singular?",
+        "options": [
+            "First form",
+            "Base form",
+            "Infinitive form",
+            "All of the above"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "Which sentence is grammatically correct?<br>I. Half of the apple is gone.<br>II. Half of the apples are gone.",
+        "options": [
+            "Only II",
+            "Only I",
+            "Both",
+            "None of the above"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "Which is the finite verb in the sentence below:<br> Jonathan likes to drink coffee.",
+        "options": [
+            "Likes",
+            "Drink",
+            "To drink",
+            "Both a and c"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "Money, time and distance are frequently expressed by a ……………………… verb.",
+        "options": [
+            "Singular",
+            "Finite",
+            "Plural",
+            "Non-finite"
+        ],
+        "correct": 0
+    }
+]
+
